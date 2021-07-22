@@ -1,4 +1,4 @@
-# after-effects-goodies
+# matoseb-presets
 
 Some After Effects utility files & presets I use sometimes
 
