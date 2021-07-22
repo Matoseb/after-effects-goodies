@@ -6,8 +6,8 @@
 - <img src="./use-cases/Stretch%20Frame.gif" width="50" height="50"> **Stretch Frame.ffx** Stretches a padding of pixels to fill the gap of your composition.
 
 ## Installation
-- Download this folder.
-- Add it to your ```Adobe After Effects folder / Presets```.
+- Download this repository.
+- Add the folder ```matoseb-presets``` to your ```Adobe After Effects folder / Presets```.
 - Relaunch After Effects.
 
 ## How to use
