@@ -2,7 +2,7 @@
 
 ## Presets
 - <img src="./use-cases/Crossfade%20Audio%20Over%20Layers.gif" width="50" height="50"> **Crossfade Audio Over Layers.ffx** Linearly fades the audio between a layer followed by a direct overlapped top layer.
-- <img src="./use-cases/Audio%20Fade%20In-Out%20(msec).gif" width="50" height="50"> **Fade In-Out Audio (msec).ffx** Linearly fades the audio of a layer.
+- <img src="./use-cases/Audio%20Fade%20In-Out%20(msec).gif" width="50" height="50"> **Audio Fade In-Out (msec).ffx** Linearly fades the audio of a layer.
 - <img src="./use-cases/Stretch%20Frame.gif" width="50" height="50"> **Stretch Frame.ffx** Stretches a padding of pixels to fill the gap of your composition.
 
 ## Installation
