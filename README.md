@@ -10,6 +10,7 @@ Small useful preset collection I made for my own projects.\
 | | **Rainbow 1 - Colorama.ffx** | Rainbow gradient ramp. |
 | | **Lorem Ipsum.ffx** | Lorem Ipsum for text layers. |
 | | **True Text Bounds.ffx** | Calculate accurate text boundaries (sourceRectAtTime) with adjustable text ascenders & descenders. |
+| | **Text Bounding Box.ffx** | Responsive Rectangle fitting its Layer Text Parent. With adjustable margins. |
 
 ### Installation
 1. Download this repository.
