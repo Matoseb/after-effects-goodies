@@ -7,7 +7,7 @@
 
 ## Installation
 - Download this repository.
-- Add the folder ```matoseb-presets``` to your ```Adobe After Effects folder / Presets```.
+- Add the folder ```Matoseb Presets``` to your ```Adobe After Effects folder / Presets```.
 - Relaunch After Effects.
 
 ## How to use
