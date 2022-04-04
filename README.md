@@ -2,12 +2,21 @@
 
 ## Matoseb Presets
 Small useful preset collection I made for my own projects.
-| | | |
+| Audio | | |
 | - | - | - |
 | <img src="./images/Crossfade%20Audio%20Over%20Layers.gif" width="100"> | **Crossfade Audio Over Layers.ffx** | Linearly fades the audio between a layer followed by a direct overlapped top layer. |
 | <img src="./images/Audio%20Fade%20In-Out%20(msec).gif" width="100"> | **Audio Fade In-Out (msec).ffx** | Linearly fades the audio of a layer. |
+
+| Distort | | |
+| - | - | - |
 | <img src="./images/Stretch%20Frame.gif" width="100"> | **Stretch Frame.ffx** | Stretches a padding of pixels to fill the gap of your composition. |
+
+| Generate | | |
+| - | - | - |
 | <img src="./images/Rainbow%201%20-%20Colorama.png" width="100"> | **Rainbow 1 - Colorama.ffx** | Rainbow gradient ramp. |
+
+| Text | | |
+| - | - | - |
 | <img src="./images/Lorem%20Ipsum.gif" width="100"> | **Lorem Ipsum.ffx** | Lorem Ipsum for text layers. |
 | <img src="./images/True%20Text%20Bounds.gif" width="100"> | **True Text Bounds.ffx** | Calculate accurate text boundaries (sourceRectAtTime) with adjustable text ascenders & descenders. |
 | <img src="./images/Text%20Bounding%20Box.gif" width="100"> | **Text Bounding Box.ffx** | Responsive Rectangle fitting its Layer Text Parent. With adjustable margins. |
