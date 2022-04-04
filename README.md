@@ -20,6 +20,7 @@ Small useful preset collection I made for my own projects.
 | <img src="./images/Lorem%20Ipsum.gif" width="100"> | **Lorem Ipsum.ffx** | Generate Lorem Ipsum for text layers. |
 | <img src="./images/True%20Text%20Bounds.gif" width="100"> | **True Text Bounds.ffx** | Calculate accurate text boundaries (sourceRectAtTime) with adjustable text ascenders & descenders. |
 | <img src="./images/Text%20Bounding%20Box.gif" width="100"> | **Text Bounding Box.ffx** | Responsive Rectangle fitting its Layer Text Parent. With adjustable margins. |
+| <img src="./images/Text%20Formatter.gif" width="100"> | **Text Formatter.ffx** | Format specific words in your text with pseudo-bold, pseudo-italic or any custom text animators |
 
 ### Installation
 1. Download the [latest release](https://github.com/Matoseb/after-effects-goodies/releases).
