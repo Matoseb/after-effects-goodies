@@ -22,7 +22,7 @@ Small useful preset collection I made for my own projects.
 | <img src="./images/Text%20Bounding%20Box.gif" width="100"> | **Text Bounding Box.ffx** | Responsive Rectangle fitting its Layer Text Parent. With adjustable margins. |
 
 ### Installation
-1. Download this repository.
+1. Download the [latest release](https://github.com/Matoseb/after-effects-goodies/releases).
 2. Add the folder ```Matoseb Presets``` to your ```Adobe After Effects folder / Presets```.
 3. Relaunch After Effects.
 4. Make sure in your ```File / Project settings... / Expressions``` the expression engine is set to ```JavaScript```!
