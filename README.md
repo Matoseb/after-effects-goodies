@@ -1,7 +1,7 @@
 # After Effects Goodies
 
 ## Matoseb Presets
-Small useful preset collection I made for my own projects.\
+Small useful preset collection I made for my own projects.
 | | | |
 | - | - | - |
 | <img src="./images/Crossfade%20Audio%20Over%20Layers.gif" width="100"> | **Crossfade Audio Over Layers.ffx** | Linearly fades the audio between a layer followed by a direct overlapped top layer. |
