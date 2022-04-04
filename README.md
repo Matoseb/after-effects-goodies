@@ -29,6 +29,7 @@ Small useful preset collection I made for my own projects.
 4. Make sure in your ```File / Project settings... / Expressions``` the expression engine is set to ```JavaScript```!
 
 ### How to use
+You may check the AE project in the ```examples``` folder.
 1. In After Effects, go to your ```Window / Effects & Presets``` then ```Animation Presets / Matoseb Presets```.
 2. Double click on a preset to apply it on the selected layer(s).
 
