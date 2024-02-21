@@ -5,11 +5,10 @@
 const path = thisProperty
 const pathOffset = effect("path-offset")(1).value
 
+// estimate path length
 const sampleSize = 0.01;
 const p1 = path.pointOnPath(0)
 const p2 = path.pointOnPath(sampleSize)
-
-// estimate path length
 const pathLength = length(p1, p2) * 1 / sampleSize
 
 const nPoints = Math.ceil(pathLength * 0.3)
